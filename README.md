@@ -19,6 +19,10 @@ Welcome to my Readme.md</h1>
   💞️ My Technical skills - C++, Webdevelopement(HTML,CSS,JSS), Python, Mysql, 3-D modelling,Graphic designing, Circuit designing
     
   My non-technical skills - Time management,Leadership, Entrepreneurship, communication..</p>
+
+  <div class = "box2">
+  <img src="https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif" class="box2-img">
+</div>
 </div>
 </body>
 </html>
