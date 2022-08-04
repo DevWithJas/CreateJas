@@ -2,12 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <script src="https://use.fontawesome.com/d1341f9b7a.js">
-    </script>
     <link rel="stylesheet" href="style.css">
-    <title>Personal WebSite
-    </title>
-  </head>
+ </head>
   <body>
 <div class="box" >
   <img src="https://tinyurl.com/29pls4qd" alt="" class="box-img">
