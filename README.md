@@ -15,11 +15,6 @@ Welcome to my Readme.md</h1>
     🌱 I’m currently learning Machine learning, natural language processing, PLC'S and Arduino.
     💞️ My Technical skills - C++, Webdevelopement(HTML,CSS,JSS), Python, Mysql, 3-D modelling,Graphic designing, Circuit designing
     My non-technical skills - Time management,Leadership, Entrepreneurship, communication..</p>
-<ul>
-<li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-<li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-<li><a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-</ul>
 </div>
 </body>
 </html>
