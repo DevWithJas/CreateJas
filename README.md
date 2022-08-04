@@ -6,10 +6,8 @@
  </head>
   <body>
 <div class="box" >
-  <img height = "50%" width = "50%"  src="https://tinyurl.com/29pls4qd" alt="" class="box-img">
-  <img height = "100%" width = "49.2%" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+  <img height = "100%" width = "100%"  src="https://tinyurl.com/29pls4qd" alt="" class="box-img">
   <h1>
-</div>
 Welcome to my Readme.md</h1>
 <p>
     Hi, I am Jas sharma a student of university school of automation and robotics, pursuing b.tech in robotics and automation.
@@ -25,6 +23,7 @@ Welcome to my Readme.md</h1>
   <div class = "box2">
   <img src="https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif" class="box2-img">
 </div>
+  </div>
 <h2>
   Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
 </h2>
