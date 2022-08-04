@@ -7,7 +7,9 @@
   <body>
 <div class="box" >
   <img src="https://tinyurl.com/29pls4qd" alt="" class="box-img">
+  <img height = "100%" width = "49.2%" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
   <h1>
+</div>
 Welcome to my Readme.md</h1>
 <p>
     Hi, I am Jas sharma a student of university school of automation and robotics, pursuing b.tech in robotics and automation.
