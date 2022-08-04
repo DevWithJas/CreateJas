@@ -2,9 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+    <script src="https://use.fontawesome.com/d1341f9b7a.js">
+    </script>
     <link rel="stylesheet" href="style.css">
-    <title>Personal WebSite</title>
+    <title>Personal WebSite
+    </title>
   </head>
   <body>
 <div class="box" >
