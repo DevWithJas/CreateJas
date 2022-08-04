@@ -7,7 +7,7 @@
   <body>
 <div class="box" >
   <img height = "100%" width = "100%"  src="https://tinyurl.com/29pls4qd" alt="" class="box-img">
-  <h1> Hello I am Jas Sharma <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height = 40px> </h1>
+  <h1> welcome to my Profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height = 40px> </h1>
 <p align='center'>
 </p>
     Hi, I am Jas sharma a student of university school of automation and robotics, pursuing b.tech in robotics and automation.
