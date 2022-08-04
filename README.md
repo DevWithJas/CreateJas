@@ -23,6 +23,10 @@ Welcome to my Readme.md</h1>
   <div class = "box2">
   <img src="https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif" class="box2-img">
 </div>
+<h2>
+  Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
+</h2>
+
 </div>
 </body>
 </html>
