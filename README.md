@@ -5,10 +5,9 @@
 - My non-technical skills - Time management,Leadership, Entrepreneurship, communication.
 - I love to work on - Robotics projects, iot projects and machine learning projects. 
 📫 How to reach me https://www.linkedin.com/in/jas-sharma-217614233
- My GitHub README
-
-Welcome to my README!
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src=""C:\Users\jaitl\Downloads\Join Our Course post.png"" width="400" height="400" alt="css-in-readme">
 </div>
+
+
