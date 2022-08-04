@@ -26,7 +26,9 @@
   </div>
 <h2>
  <img width = 32px height = 32px align = center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  
   Contact me on : https://www.linkedin.com/in/jas-sharma-217614233 
+  
   </h2>
 </div>
 </body>
