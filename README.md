@@ -26,9 +26,11 @@
 <h2><img width = 32px height = 32px align = center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> 
 
   Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CreateJas&show_icons=true&theme=dark&locale=en&layout=compact" alt="CreateJas" /></p>
-<h3><img align = center src = "https://github-readme-stats.vercel.app/api?username=CreateJas&theme=highcontrast&show_icons=true&count_private=true" alt="CreateJas"/></h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CreateJas&theme=dark" alt="CreateJas" /></p>
+### ⚙️ &nbsp;GitHub Analytics
+
+| ![Jas sharma github stats ](https://github-readme-stats.vercel.app/api?username=CreateJas&show_icons=true&theme=tokyonight) | ![Jas sharma's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreateJas&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateJas&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CreateJas&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
     
 </h2>
