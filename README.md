@@ -10,7 +10,7 @@
   <h1> Welcome to my Profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height = 40px> </h1>
 <p align='center'>
 </p>
-    Hi, I am Jas sharma a student of university school of automation and robotics, pursuing b.tech in robotics and automation. <img src ="https://media.istockphoto.com/vectors/industrial-robot-arm-icon-with-automation-system-used-for-or-40-vector-id1153628239?s=612x612" width = 10px height = 10px>
+    Hi, I am Jas sharma a student of university school of automation and robotics, pursuing b.tech in robotics and automation. <img width = 30px height = 30px src ="https://media.istockphoto.com/vectors/industrial-robot-arm-icon-with-automation-system-used-for-or-40-vector-id1153628239?s=612x612">
     
   👀 I’m a python developer and a renewable energy energy prototype creater.
     
