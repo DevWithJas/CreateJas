@@ -24,8 +24,8 @@
 </div>
   </div>
 <h2><img width = 32px height = 32px align = center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> 
-Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
 
+  Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CreateJas&show_icons=true&theme=dark&locale=en&layout=compact" alt="CreateJas" /></p>
 <h3><img align = center src = "https://github-readme-stats.vercel.app/api?username=CreateJas&theme=highcontrast&show_icons=true&count_private=true"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CreateJas&theme=dark" alt="CreateJas" /></p>
