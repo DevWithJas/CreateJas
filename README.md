@@ -27,7 +27,8 @@
   
 Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
 
-https://github-readme-stats.vercel.app/api?username=CreateJas&theme=highcontrast&show_icons=true&count_private=true
+<img src = https://github-readme-stats.vercel.app/api?username=CreateJas&theme=highcontrast&show_icons=true&count_private=true> 
+  
  
 </h2>
 </div>
