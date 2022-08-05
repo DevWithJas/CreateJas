@@ -26,7 +26,7 @@
 <h2><img width = 32px height = 32px align = center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>        
 Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
   
-<h3><img width = 70px height = 70px align = center src = "https://github-readme-stats.vercel.app/api?username=CreateJas&theme=highcontrast&show_icons=true&count_private=true"/>
+<h3><img align = center src = "https://github-readme-stats.vercel.app/api?username=CreateJas&theme=highcontrast&show_icons=true&count_private=true"/>
 </h2>
 </div>
 </body>
