@@ -32,7 +32,9 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateJas&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=CreateJas&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-    
+![Profile views](https://gpvc.arturio.dev/CreateJas)  
+   
+  
 </h2>
 </div>
 </body>
