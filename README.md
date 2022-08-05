@@ -23,10 +23,13 @@
   <img src="https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif" class="box2-img">
 </div>
   </div>
-<h2><img width = 32px height = 32px align = center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>        
+<h2><img width = 32px height = 32px align = center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> 
 Contact me on : https://www.linkedin.com/in/jas-sharma-217614233
-  
+
 <h3><img align = center src = "https://github-readme-stats.vercel.app/api?username=CreateJas&theme=highcontrast&show_icons=true&count_private=true"/>
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=CreateJas 29&show_icons=true&theme=dark&locale=en" alt="shubhsardana29" /></p>   
+    
 </h2>
 </div>
 </body>
