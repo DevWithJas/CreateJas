@@ -15,7 +15,7 @@
     
   🌱 I’m currently learning Machine learning, natural language processing, PLC'S and Arduino.
     
-  💞️ My Technical skills - C++, Webdevelopement(HTML,CSS,JSS), Python, Mysql, 3-D modelling,Graphic designing, Circuit designing
+  💞️ My Technical skills - C++, W, Python, Mysql, machine learning, deep learning, 3-D modelling,Graphic designing, Circuit designing
     
   My non-technical skills - Time management,Leadership, Entrepreneurship, communication..</p>
 
