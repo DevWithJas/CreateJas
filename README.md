@@ -63,7 +63,7 @@ I've worked on several exciting projects that demonstrate my skills and passion 
    - Used deep learning models to predict patient outcomes based on historical data.
 
 ## 🌟 Let's Connect!
-I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to start a conversation or collaborate on exciting projects.
+I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
 
 Let's make the world a smarter and more innovative place through the power of technology! 🌍🤖💡
 
