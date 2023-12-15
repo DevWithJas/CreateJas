@@ -24,6 +24,9 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateJas&theme=radical&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreateJas&theme=radical)
 
+![Stars](https://img.shields.io/github/stars/username/repo?style=social)
+![Watchers](https://img.shields.io/github/watchers/username/repo?style=social)
+
 ## 📝 Medium Blogs
 As a writer on Medium, I explore the depths of robotics and machine learning. Check out my stories and tutorials that demystify complex concepts and offer practical advice.
 
