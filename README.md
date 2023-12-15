@@ -1,3 +1,6 @@
+<!-- Include the additional GIF at the top -->
+![Machine Learning](https://tinyurl.com/29pls4qd)
+
 # Hello World, I'm Jas Sharma! 👨‍💻
 
 ## 🚀 About Me
@@ -11,6 +14,9 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 - **Machine Learning (ML)**: Crafting algorithms that predict and analyze with precision.
 - **Deep Learning (DL)**: Architecting neural networks that mimic the intricacies of human cognition.
 - **Data Analytics**: Interpreting vast datasets to unearth actionable insights using R and Python.
+
+<!-- Include the GIF in the middle of the profile -->
+![Machine Learning](https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif)
 
 ## 📈 GitHub Metrics
 
@@ -61,8 +67,5 @@ I've worked on several exciting projects that demonstrate my skills and passion 
 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to start a conversation or collaborate on exciting projects.
-
-<!-- Include the additional GIF -->
-![Machine Learning](https://tinyurl.com/29pls4qd)
 
 Let's make the world a smarter and more innovative place through the power of technology! 🌍🤖💡
