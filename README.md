@@ -24,13 +24,6 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateJas&theme=radical&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreateJas&theme=radical)
 
-### 🌟 Additional Metrics Plugins
-![Isometric Calendar](https://metrics.lecoq.io/CreateJas?template=classic&isocalendar=1)
-![Lines of code](https://metrics.lecoq.io/CreateJas?template=classic&lines=1)
-![Achievements](https://metrics.lecoq.io/CreateJas?template=classic&achievements=1)
-![Repositories](https://metrics.lecoq.io/CreateJas?template=classic&repositories=1)
-![Posts](https://metrics.lecoq.io/CreateJas?template=classic&posts=1)
-
 ## 📝 Medium Blogs
 As a writer on Medium, I explore the depths of robotics and machine learning. Check out my stories and tutorials that demystify complex concepts and offer practical advice.
 
