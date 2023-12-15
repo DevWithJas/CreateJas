@@ -1,31 +1,40 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-  </head>
-  <body>
-    <div>
-      <img height="100%" width="100%" src="https://tinyurl.com/29pls4qd" alt="">
-      <h1 style="color:red;"> WELCOME TO MY PROFILE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px"></h1>
-      <p align='center'></p>
-      <p>
-   # WELCOME TO MY PROFILE 👋
+# Hi there, I'm Jas Sharma! 👋
 
-Hi, I am Jas Sharma, a student of University School of Automation and Robotics, pursuing B.Tech in Robotics and Automation. I’m a Python developer and a renewable energy prototype creator. 
+Welcome to my hub of innovation and learning where robotics meet intelligence.
 
-🌱 I’m currently learning Machine Learning, Natural Language Processing, PLCs, and Arduino.
+## 🤖 About Me
+As a student at the University of School of Automation and Robotics, my academic journey is deeply rooted in B.Tech in Robotics and Automation. I'm fascinated by the synergy of mechanical wonders and the intelligence of artificial systems. Here, you'll find a blend of projects and studies that reflect my commitment to pushing the boundaries of technology and sustainable energy.
 
-💞️ My Technical skills include C++, Web Development, Python, MySQL, Machine Learning, Deep Learning, 3-D Modeling, Graphic Designing, Circuit Designing.
+## 💡 Interests
+- **Robotics**: Exploring the nexus of design, function, and innovation.
+- **Machine Learning**: Building intelligent systems that learn and adapt.
+- **Deep Learning**: Diving deep into neural networks and their applications.
+  
+## 🛠️ Technical Proficiencies
+- **Programming Languages**: R, Python - the cornerstones of data science.
+- **Machine Learning & Deep Learning**: Leveraging frameworks like TensorFlow and PyTorch to create intelligent systems.
+- **Data Analytics**: Transforming data into insights with powerful analytical skills.
 
-My non-technical skills include Time Management, Leadership, Entrepreneurship, Communication.
+## 📊 GitHub Metrics
+Embed dynamic GitHub statistics to showcase your coding journey.
 
-![Jas Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreateJas&show_icons=true&theme=tokyonight)
+<!-- Replace 'yourusername' with your actual GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+<!-- Add other metrics as needed -->
 
-![Jas Sharma's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreateJas&theme=tokyonight)
+## ✍️ My Medium Blogs
+Catch up with my latest articles where I discuss trends in AI, robotics, and data science.
+<!-- Include links to your Medium blogs -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreateJas&theme=tokyonight)
+## 🌐 Languages and Frameworks
+Enhance your README with badges representing the languages and frameworks you're proficient in.
 
+<!-- Use the Shields IO service to generate badges: https://shields.io/ -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
+<!-- Add more badges as needed -->
 
- </body>
-</html>
-
+<!-- Include a gif that resonates with your profile theme -->
+![Alt Text](https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif)
