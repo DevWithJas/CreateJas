@@ -1,4 +1,3 @@
-
 # Hello World, I'm Jas Sharma! 👨‍💻
 
 ## 🚀 About Me
@@ -63,7 +62,7 @@ I've worked on several exciting projects that demonstrate my skills and passion 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to start a conversation or collaborate on exciting projects.
 
-<!-- Include the gif that resonates with your profile theme -->
-![Machine Learning](https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif)
+<!-- Include the additional GIF -->
+![Machine Learning](https://tinyurl.com/29pls4qd)
 
 Let's make the world a smarter and more innovative place through the power of technology! 🌍🤖💡
