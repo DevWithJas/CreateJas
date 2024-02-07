@@ -1,5 +1,5 @@
 <!-- Include the additional GIF at the top -->
-[Machine Learning](http://tinyurl.com/4bdudy9e)
+![Machine Learning](http://tinyurl.com/4bdudy9e)
 
 
 
