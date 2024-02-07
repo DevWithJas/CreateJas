@@ -49,7 +49,7 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2671a3?logo=matplotlib&logoColor=white) add a zoomin effect like we have in apple logos to them. use embedded css
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2671a3?logo=matplotlib&logoColor=white)
 
 ## 🎯 Projects
 I've worked on several exciting projects that demonstrate my skills and passion for technology. Here are a few highlights:
