@@ -1,5 +1,5 @@
 <!-- Include the additional GIF at the top -->
-![Machine Learning](http://tinyurl.com/4bdudy9e) ![Iron Man](https://media.tenor.com/1hIfOVIolbMAAAAM/iron-man-tony-stark.gif)
+<img src="http://tinyurl.com/4bdudy9e" alt="Machine Learning" width="400"/> <img src="https://media.tenor.com/1hIfOVIolbMAAAAM/iron-man-tony-stark.gif" alt="Iron Man" width="400"/>
 
 
 
