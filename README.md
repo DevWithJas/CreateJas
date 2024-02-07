@@ -1,5 +1,6 @@
 <!-- Include the additional GIF at the top -->
-![Machine Learning](https://tinyurl.com/29pls4qd)
+[Machine Learning](http://tinyurl.com/5n7sva3w)
+
 
 # Hello World, I'm Jas Sharma! 👨‍💻
 
