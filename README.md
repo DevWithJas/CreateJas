@@ -41,14 +41,23 @@ As a writer on Medium, I explore the depths of robotics and machine learning. Ch
 ## 🌐 Languages and Frameworks
 I've immersed myself in a multitude of languages and frameworks that are at the forefront of technological advancement.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2671a3?logo=matplotlib&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" style="width: 50px; transition: transform 0.2s;"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" style="width: 50px; transition: transform 0.2s;"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white" alt="TensorFlow" style="width: 50px; transition: transform 0.2s;"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white" alt="PyTorch" style="width: 50px; transition: transform 0.2s;"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit Learn" style="width: 50px; transition: transform 0.2s;"/>
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="Pandas" style="width: 50px; transition: transform 0.2s;"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" style="width: 50px; transition: transform 0.2s;"/>
+  <img src="https://img.shields.io/badge/Matplotlib-2671a3?logo=matplotlib&logoColor=white" alt="Matplotlib" style="width: 50px; transition: transform 0.2s;"/>
+</p>
+
+<style>
+  img:hover {
+    transform: scale(1.2);
+  }
+</style>
+
 
 ## 🎯 Projects
 I've worked on several exciting projects that demonstrate my skills and passion for technology. Here are a few highlights:
