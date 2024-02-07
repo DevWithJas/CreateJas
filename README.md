@@ -1,5 +1,5 @@
 <!-- Include the additional GIF at the top -->
-<img src="http://tinyurl.com/4bdudy9e" alt="Machine Learning" style="width: 70%;"/>
+<img src="http://tinyurl.com/4bdudy9e" alt="Machine Learning" style="width: 90%;"/>
 
 # Hello World, I'm Jas Sharma! 👨‍💻
 
