@@ -1,16 +1,20 @@
 <!-- Include the additional GIF at the top -->
 <p align="center">
-  <img src="http://tinyurl.com/4bdudy9e" alt="Machine Learning" style="width: 90%;"/>
+  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Batman" style="width: 90%;"/>
 </p>
 
 <h1 align="center">Hello World, I'm Jas Sharma! 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9b/2b/2a/9b2b2a3a89e55d72d0bd6657cf7c6fd2.gif" alt="Machine Learning" style="width: 80%;"/>
+  <img src="https://media.giphy.com/media/69PU11lVZOEmXSiC6c/giphy.gif" alt="Machine Learning" style="width: 80%;"/>
 </p>
 
 ## 🚀 About Me
 I'm Jas Sharma, an aspiring technologist currently pursuing a B.Tech in Robotics and Automation at the University School of Automation and Robotics. My academic journey is a quest to blend the physical prowess of robotics with the cognitive prowess of artificial intelligence.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26Ff3zG0L6vHT3Ge0/giphy.gif" alt="Robotics" style="width: 80%;"/>
+</p>
 
 ### 💼 My Interests
 I'm deeply enthralled by the potential of robotics and machine learning to revolutionize the way we interact with the world around us. From autonomous vehicles to smart cities, my interest lies at the heart of innovation, where technology serves as a bridge to a sustainable future.
@@ -65,4 +69,9 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/I6B2XsxFwB0UE/giphy.gif" alt="Connect" style="width: 80%;"/>
+</p>
+
 Let's make the world a smarter and more innovative place through the power of technology! 🌍🤖💡
+
