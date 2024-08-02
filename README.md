@@ -12,10 +12,6 @@
 ## 🚀 About Me
 I'm Jas Sharma, an aspiring technologist currently pursuing a B.Tech in Robotics and Automation at the University School of Automation and Robotics. My academic journey is a quest to blend the physical prowess of robotics with the cognitive prowess of artificial intelligence.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26Ff3zG0L6vHT3Ge0/giphy.gif" alt="Robotics" style="width: 80%;"/>
-</p>
-
 ### 💼 My Interests
 I'm deeply enthralled by the potential of robotics and machine learning to revolutionize the way we interact with the world around us. From autonomous vehicles to smart cities, my interest lies at the heart of innovation, where technology serves as a bridge to a sustainable future.
 
@@ -74,4 +70,3 @@ I'm always excited to connect with fellow tech enthusiasts, researchers, and col
 </p>
 
 Let's make the world a smarter and more innovative place through the power of technology! 🌍🤖💡
-
