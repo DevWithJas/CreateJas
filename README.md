@@ -3,7 +3,6 @@
   <img src="http://tinyurl.com/4bdudy9e" alt="Machine Learning" style="width: 90%;"/>
 </p>
 
-
 # Hello World, I'm Jas Sharma! 👨‍💻
 
 ## 🚀 About Me
@@ -49,21 +48,6 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2671a3?logo=matplotlib&logoColor=white)
-
-## 🎯 Projects
-I've worked on several exciting projects that demonstrate my skills and passion for technology. Here are a few highlights:
-
-### 1. Autonomous Drone Navigation
-   - Designed an autonomous drone system capable of navigating complex environments using computer vision and machine learning techniques.
-   - Implemented obstacle avoidance algorithms for real-time decision-making.
-
-### 2. Smart City Traffic Management
-   - Developed a traffic management system for a smart city, optimizing traffic flow using real-time data and predictive analytics.
-   - Utilized IoT sensors and machine learning models to predict traffic congestion.
-
-### 3. Healthcare Predictive Analytics
-   - Created a predictive analytics platform for healthcare institutions to forecast patient admissions and allocate resources efficiently.
-   - Used deep learning models to predict patient outcomes based on historical data.
 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
