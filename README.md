@@ -34,7 +34,7 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=CreateJas&theme=darkhub)
 
 ## 📊 GitHub Activity Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=CreateJas&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" alt="My GitHub activity graph" style="max-width: 100%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CreateJas&theme=react-dark&bg_color=20232a&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=b10e1e" alt="My GitHub Activity Graph" style="max-width: 100%;">
 
 ## 📝 Medium Blogs
 As a writer on Medium, I explore the depths of robotics and machine learning. Check out my stories and tutorials that demystify complex concepts and offer practical advice.
@@ -57,5 +57,6 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
+
 
 
