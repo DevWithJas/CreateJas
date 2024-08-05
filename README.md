@@ -30,6 +30,9 @@ My toolkit is a tapestry of programming languages and frameworks designed to tac
 ![Watchers](https://img.shields.io/github/watchers/CreateJas/Sentinel-Mark-2?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=CreateJas&color=blue&style=flat-square&label=Profile+Views&color=success&logo=github&logoColor=white&labelColor=blue)
 
+## 🏆 GitHub Profile Trophy
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=CreateJas)
+
 ## 📝 Medium Blogs
 As a writer on Medium, I explore the depths of robotics and machine learning. Check out my stories and tutorials that demystify complex concepts and offer practical advice.
 
@@ -52,4 +55,3 @@ I've immersed myself in a multitude of languages and frameworks that are at the 
 ## 🌟 Let's Connect!
 I'm always excited to connect with fellow tech enthusiasts, researchers, and collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jas-sharma-217614233) to start a conversation or collaborate on exciting projects.
 
-Let's make the world a smarter and more innovative place through the power of technology! 🌍🤖💡 make this more visually appealing then
